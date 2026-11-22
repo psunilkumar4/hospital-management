@@ -1,0 +1,18 @@
+# Dependencies & Build outputs
+node_modules/
+dist/
+.vite/
+target/
+
+# IDE / Editor files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
